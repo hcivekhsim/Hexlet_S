@@ -5,7 +5,7 @@ import (
 	"gmod/utils"
 )
 
-func main(){
+func main() {
 	fmt.Println("Hello World")
 	fmt.Println(utils.BuildGreeting("Alice", 5))
 }
